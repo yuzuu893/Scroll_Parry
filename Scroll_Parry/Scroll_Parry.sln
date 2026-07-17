@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scroll_Parry", "Scroll_Parry.vcxproj", "{41D28936-A3D4-4EBE-9CF7-D167A1A40E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41D28936-A3D4-4EBE-9CF7-D167A1A40E56}.Debug|x64.ActiveCfg = Debug|x64
+		{41D28936-A3D4-4EBE-9CF7-D167A1A40E56}.Debug|x64.Build.0 = Debug|x64
+		{41D28936-A3D4-4EBE-9CF7-D167A1A40E56}.Release|x64.ActiveCfg = Release|x64
+		{41D28936-A3D4-4EBE-9CF7-D167A1A40E56}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BB71BFF-21CF-474A-B26B-CBE865F2EB26}
+	EndGlobalSection
+EndGlobal
